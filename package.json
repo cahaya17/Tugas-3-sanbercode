@@ -1,0 +1,22 @@
+{
+  "name": "tugas-3-sanbercode",
+  "version": "1.0.0",
+  "description": "Tugas 3 Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cahaya17/Tugas-3-sanbercode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cahaya17/Tugas-3-sanbercode/issues"
+  },
+  "homepage": "https://github.com/cahaya17/Tugas-3-sanbercode#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
